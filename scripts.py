@@ -2,15 +2,15 @@ class Scripted(object):
 
 
     PROGRESS_DIS = """\n
-╭───[**🔅Progress Bar🔅**]───⍟
+╭───[**Sᴛᴀᴛᴜs**]───⍟
 │
-├<b>📁 : {1} | {2}</b>
+├<b>📁 Sɪᴢᴇ : {1} | {2}</b>
 │
-├<b>🚀 : {0}%</b>
+├<b>📱 Pʀᴏɢʀᴇꜱꜱ : {0}%</b>
 │
-├<b>⚡ : {3}/s</b>
+├<b>🚀 Sᴘᴇᴇᴅ : {3}/s</b>
 │
-├<b>⏱️ : {4}</b>
+├<b>⏱️ Eᴛᴀ : {4}</b>
 ╰─────────────────⍟"""
 
     HELP_TEXT = """
@@ -26,11 +26,11 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/RenamerProMaxRobot'>Rename X2 Bot</a></b>
+├<b>Mʏ ɴᴀᴍᴇ : <a href='https://t.me/RenamerProMaxRobot'>Rᴇɴᴀᴍᴇ Pʀᴏ Bᴏᴛ</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/onlymovie76'>Movies</a></b>
+├<b>📢 Channel : <a href='https://t.me/onlymovie76'>Dɪsɴᴇʏ ʙᴏᴛs</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/RenamerProMaxRobot'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/RenamerProMaxRobot'>1.0 beta</a></b>
 │
 ├<b>💢 Source : <a href='https://github.com/PRetor/Log'>Click Here</a></b>
 │
@@ -42,7 +42,7 @@ class Scripted(object):
 │
 ├<b>👨‍💻 Developer : <a href='https://t.me/Jackbro007'>@Jackbro007</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/onlymovie76'>@M76Links</a></b>
+├<b>Powered By : <a href='https://t.me/onlymovie76'>@M76Links</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
