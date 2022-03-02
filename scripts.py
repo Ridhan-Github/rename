@@ -13,54 +13,46 @@ class Scripted(object):
 ├<b>⏱️ Eᴛᴀ : {4}</b>
 ╰─────────────────⍟"""
 
-    HELP_TEXT = """
-<i>Join<a href='https://t.me/onlymovie76'>[ ᴄʟɪᴄᴋ ʜᴇʀᴇ ]</a></i>\n
-<i>𝐒𝐞𝐧𝐝 𝐚 𝐩𝐡𝐨𝐭𝐨 𝐭𝐨 𝐦𝐚𝐤𝐞 𝐢𝐭 𝐚𝐬 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 (optional)</i>\n
-<i>𝐒𝐞𝐧𝐝 𝐦𝐞 𝐚𝐧𝐲 𝐟𝐢𝐥𝐞 (or) 𝐌𝐞𝐝𝐢𝐚 𝐟𝐫𝐨𝐦 𝐭𝐞𝐥𝐞𝐠𝐫𝐚𝐦</i>\n
-<i>𝐂𝐨𝐧𝐯𝐞𝐫𝐭 𝐟𝐢𝐥𝐞𝐬 𝐢𝐧𝐭𝐨 𝐯𝐢𝐝𝐞𝐨 𝐮𝐬𝐞 /convert 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
-<i>𝐑𝐞𝐩𝐥𝐲 𝐭𝐨 𝐭𝐡𝐚𝐭 𝐟𝐢𝐥𝐞 𝐰𝐢𝐭𝐡 /rename 𝐧𝐞𝐰 𝐧𝐚𝐦𝐞.ext</i>\n
-<i>𝐕𝐢𝐞𝐰 𝐲𝐨𝐮𝐫 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐝𝐨 /sthumbnail 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>\n
-<i>𝐃𝐞𝐥𝐞𝐭𝐞 𝐲𝐨𝐮𝐫 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐝𝐨 /dthumbnail 𝐜𝐨𝐦𝐦𝐚𝐧𝐝</i>"""
-
+    HELP_TEXT = """"""
 
     ABOUT_TEXT = """
-╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
-│
-├<b>Mʏ ɴᴀᴍᴇ : <a href='https://t.me/RenamerProMaxRobot'>Rᴇɴᴀᴍᴇ Pʀᴏ Bᴏᴛ</a></b>
-│
-├<b>📢 Channel : <a href='https://t.me/onlymovie76'>Dɪsɴᴇʏ ʙᴏᴛs</a></b>
-│
-├<b>👥 Version : <a href='https://t.me/RenamerProMaxRobot'>1.0 beta</a></b>
-│
-├<b>💢 Source : <a href='https://github.com/PRetor/Log'>Click Here</a></b>
-│
-├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
-│
-├<b>📕 Library : <a href='https://github.com/pyrogram'>Pyrogram 1.2.8</a></b>
-│
-├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
-│
-├<b>👨‍💻 Developer : <a href='https://t.me/Jackbro007'>@Jackbro007</a></b>
-│
-├<b>Powered By : <a href='https://t.me/onlymovie76'>@M76Links</a></b>
-│
-╰──────[Thanks 😊]───⍟"""
+<b> Mʏ ɴᴀᴍᴇ : <a href='http://t.me/RenamerXProRobot'>Rᴇɴᴀᴍᴇ Pʀᴏ Bᴏᴛ</a></b>
+
+<b> Cʜᴀɴɴᴇʟ : <a href='https://t.me/Disney_Bots'>Dɪsɴᴇʏ ʙᴏᴛs</a></b>
+
+<b> Vᴇʀꜱɪᴏɴ : <a href='http://t.me/RenamerXProRobot'>1.0 Bᴇᴛᴀ</a></b>
+
+<b> Dᴀᴛᴀʙᴀꜱᴇ : <a href='https://www.mongodb.com'>
+
+<b> Sᴏᴜʀᴄᴇ : <a href='https://t.me/tamilanbots'>Cʟɪᴄᴋ Hᴇʀᴇ</a></b>
+
+<b> Sᴇʀᴠᴇʀ : <a href='https://heroku.com'>Hᴇʀᴏᴋᴜ</a></b>Mᴏɴɢᴏᴅʙ</a></b>
+
+<b> Hᴇʟᴘʟɪɴᴇ : <a href='https://t.me/RenamerProMaxRobot'>Dɪsɴᴇʏ Sᴜᴘᴘᴏʀᴛ</a></b>
+
+<b> Fʀᴀᴍᴇᴡᴏʀᴋ : <a href='https://github.com/pyrogram'>Pʏʀᴏɢʀᴀᴍ 1.2.8</a></b>
+
+<b> Lᴀɴɢᴜᴀɢᴇ: <a href='https://www.python.org'>Pʏᴛʜᴏɴ 3.9.4</a></b>
+
+<b> Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/tamilanbots'>@EᴀʀɴMᴏɴᴇʏVIP</a></b>
+
+<b> Pᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/DisneyHDLinks'>@DɪsɴᴇʏHDLɪɴᴋs</a></b>"""
 
     CUSTOM_CAPTION = "<i>{}</i>"
-    ACCESS_DENIED = "<b>¥ou Are Banned 🚫</b>"
-    BANNED_USER_TEXT = "<i>¥ou are Banned 🚫</i>"
+    ACCESS_DENIED = "<i>¥ou Are Banned </i>"
+    BANNED_USER_TEXT = "<i>¥ou are Banned </i>"
     TRYING_TO_UPLOAD = "<i>Trying to Upload.....</i>"
     CURRENT_THUMBNAIL = "<i>𝐘𝐨𝐮𝐫 𝐂𝐮𝐫𝐫𝐞𝐧𝐭 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 🎭</i>"
-    THUMBNAIL_SAVED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐚𝐯𝐞𝐝 ✅</i>"
-    THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
-    NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (Konsi Goals Chahiye)😔</i>"
+    THUMBNAIL_SAVED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐒𝐚𝐯𝐞𝐝 ✓</i>"
+    THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 </i>"
+    NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
     UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @TvSeriesLand4U</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
-    JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
+    JOIN_NOW_TEXT = "👋 Hᴇʏ , {}♡ /n/n<i>First Join My Updates Channel to Use Me</i>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact Meh @Jackbro007 😑</i>"
-    START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
-    UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/Jackbro007'>[ Click Here]</a></b>"
+    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact Meh @DisneyBots_Support 😑</i>"
+    START_TEXT = """👋 Hᴇʟʟᴏ , {}♡ /n/nTʜɪꜱ ɪꜱ ꜰɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ ᴡɪᴛʜ ꜰɪʟᴇ ᴄᴏɴᴠᴇʀᴛᴇʀ /n/nPʀᴇꜱꜱ ʜᴇʟᴘ ʙᴜᴛᴛᴏɴ ꜰᴏʀ ᴍᴏʀᴇ ɪɴꜰᴏ... /n/nPᴏᴡᴇʀᴇᴅ ʙʏ : <a href='https://t.me/Disney_Bots'>Dɪsɴᴇʏ Bᴏᴛs</a>"""
+    UPGRADE_TEXT = "<i>To upgrade your subscription <a href='https://t.me/DisneyBots'>[ Click Here]</a></i>"
